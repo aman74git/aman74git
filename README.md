@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Aman Kumar
-I am a final-year student at IIT Kharagpur, India. I love competitive programming and development. I have experience in backend, frontend, and Android development
+I am a graduate from IIT Kharagpur, India. I love competitive programming and development. I have experience in backend, frontend, and Android development
 
 Skills: C/C++ / Javascript / Typescript / Java / Express / React  / React-Native / Android development
 
