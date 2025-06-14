@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Aman Kumar
 I am a graduate from IIT Kharagpur, India. I love competitive programming and development. I have experience in backend, frontend, and Android development
 
-Skills: C/C++ / Javascript / Typescript / Python / Express / React / Angular / React-Native / Android development
+Skills: C/C++ | Javascript | Typescript | Python | Express | React | Angular | React-Native | Android development
 
 
 
